@@ -82,9 +82,6 @@ class Garuda:
             print (Fore.WHITE+"\n \t[+] Installed " + i)   
         os.system('adb shell "chmod 777 /data/local/tmp/frida_server"')
         os.system('adb shell "chmod 777 /data/local/tmp/tcpdump"')
-        
-        #subprocess.run('adb shell "chmod 777 /data/local/tmp/tcpdump"', shell=True)
-        #subprocess.run('adb shell "chmod 777 /data/local/tmp/frida_server"', shell=True)
         print(Fore.RED+"\n All the tools have been installed, Please goahead and configure the Xposed Framework.")
         print(Fore.RED+"\n watch this video to setup Xposed-framework link : https://youtu.be/Sy09edb57hg .")
                   
