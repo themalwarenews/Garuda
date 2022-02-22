@@ -1,5 +1,19 @@
 # GARUDA
 
+                                                             
+ @@@@@@@@   @@@@@@   @@@@@@@   @@@  @@@  @@@@@@@    @@@@@@   
+@@@@@@@@@  @@@@@@@@  @@@@@@@@  @@@  @@@  @@@@@@@@  @@@@@@@@  
+!@@        @@!  @@@  @@!  @@@  @@!  @@@  @@!  @@@  @@!  @@@  
+!@!        !@!  @!@  !@!  @!@  !@!  @!@  !@!  @!@  !@!  @!@  
+!@! @!@!@  @!@!@!@!  @!@!!@!   @!@  !@!  @!@  !@!  @!@!@!@!  
+!!! !!@!!  !!!@!!!!  !!@!@!    !@!  !!!  !@!  !!!  !!!@!!!!  
+:!!   !!:  !!:  !!!  !!: :!!   !!:  !!!  !!:  !!!  !!:  !!!  
+:!:   !::  :!:  !:!  :!:  !:!  :!:  !:!  :!:  !:!  :!:  !:!  
+ ::: ::::  ::   :::  ::   :::  ::::: ::   :::: ::  ::   :::  
+ :: :: :    :   : :   :   : :   : :  :   :: :  :    :   : :  
+                                                             
+
+
 ### Garuda is a simple automated script, that installs and configures the android penetration testing setup.
 ---
 ### NOTE: If you are using Virtual machines as an attacking device, then connect the android emulator via ADB.
