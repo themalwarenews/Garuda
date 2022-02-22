@@ -1,8 +1,8 @@
 # GARUDA
 
-                                                             
-<a href="https://manytools.org/hacker-tools/ascii-banner/"></a>
-                                                             
+![image](https://user-images.githubusercontent.com/100226024/155191796-04b494f7-90c1-4e10-b9c0-1f8f01c9dd65.png)
+
+
 
 
 ### Garuda is a simple automated script, that installs and configures the android penetration testing setup.
@@ -55,6 +55,9 @@
 2. Download or Clone the Garuda Repo.
 3. From the terminal, move into Garuda Directory
 4. Run ```python garuda.py```
+
+![image](https://user-images.githubusercontent.com/100226024/155191673-6ab5cf70-6ec1-432b-b0bc-e379088462ef.png)
+
 
 ### Inspiration Droxes tool.
 
