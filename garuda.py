@@ -18,7 +18,7 @@ class Garuda:
     def __init__(self):
         self.apk_list = ['xposed.apk', 'drozer.apk', 'term.apk', 'busybox.apk', 'rootcloak.apk', 'inspeckage.apk', 'SSLunpin.apk']
         self.test_list = ['drozer.apk']
-        self.server_list = ['tcpdump', 'frida_server', 'xposed_flash.zip']
+        self.server_list = ['tcpdump', 'frida_server']
         self.flashfile = ['xposed_flash.zip']
         self.tools_list = ['apktool','python-pip','python3-pip', 'python-dev', 'python-twisted']
         self.py_dependencies = ['frida','frida-tools','objection']
