@@ -62,6 +62,13 @@
 ![image](https://user-images.githubusercontent.com/100226024/155191673-6ab5cf70-6ec1-432b-b0bc-e379088462ef.png)
 
 
+## Installation Video
+
+
+https://user-images.githubusercontent.com/100226024/155308712-de2fb7b3-45ef-46cc-bb56-341f01e6dd31.mp4
+
+
+
 ### Inspiration Droxes tool.
 
 
